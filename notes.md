@@ -1,0 +1,2 @@
+we are not going to write the derivative expression ourselves, because that would be a way too complicated expression. Instead, we are going to use the `torch.autograd` module to compute the derivative for us. otherwise it would have maybe thousands of terms.
+https://youtu.be/VMj-3S1tku0?t=4142
